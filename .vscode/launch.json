@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://'./public/index.html',",
+            "request": "launch",
+            "url": "http://'./public/index.html',"
+        }
+    ]
+}
